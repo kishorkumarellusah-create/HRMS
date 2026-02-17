@@ -1,0 +1,8 @@
+{
+  "name": "Nexus HRMS Portal",
+  "description": "A comprehensive, AI-powered Human Resource Management System portal featuring employee directories, leave management, recruitment tracking, and an intelligent AI assistant for performance reviews and policy inquiries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
